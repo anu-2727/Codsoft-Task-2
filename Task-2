@@ -1,0 +1,19 @@
+#CODESOFT-TASK-2
+
+**COMPANY**: CODSOFT
+
+**NAME**: PONANUPRIYA.M
+
+**INTERN ID**: 
+
+**DOMAIN** : PYTHON PROGRAMMING
+
+**BATCH DURATION** : DECEMBER-25,2024 TO JANUARY-25,2025
+
+**OUTPUT FOR TASK 2** :
+Simple Calculator
+Operations: +, -, *, /
+Enter the first number: 25
+Enter the second number: 20
+Choose an operation (+, -, *, /): *
+The result of 25.0 * 20.0 is: 500.0
